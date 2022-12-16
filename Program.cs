@@ -1,38 +1,3 @@
-﻿/*string[,] estanteLivros = new string[3, 3];
-for (int linha = 0; linha < estanteLivros.GetLength(0); linha++)
-{
-    for (int coluna = 0; coluna < estanteLivros.GetLength(1); coluna++)
-    {
-        Console.WriteLine($"Digite o seu livro no indice linha {linha} coluna {coluna}: ");
-        estanteLivros[linha, coluna] = Console.ReadLine();
-        Console.WriteLine("\n");
-    }
-}
-for (int linha = 0; linha < estanteLivros.GetLength(0); linha++)
-{
-    for (int coluna = 0; coluna < estanteLivros.GetLength(1); coluna++)
-    {
-        Console.WriteLine(estanteLivros[linha, coluna]);
-        Console.WriteLine("\n");
-    }
-}
-
-
-string[,] campoMinado = new string[2, 2];
-campoMinado[0, 0] = "B";
-campoMinado[0, 1] = "B";
-campoMinado[1, 0] = "L";
-campoMinado[1, 1] = "L";
-for (int linhas = 0; linhas < campoMinado.GetLength(0); linhas++)
-{
-    for (int colunas = 0; colunas < campoMinado.GetLength(1); colunas++)
-    {
-        Console.Write($"{campoMinado[linhas, colunas]}   ");
-    }
-    Console.WriteLine();
-}
-
-*/
 
 using System;
 using MaquinaDeBebidas;
