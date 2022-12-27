@@ -14,7 +14,7 @@ bool loop = true;
 while (loop)
 {
  
-    Console.WriteLine("Escolha uma das opções do menu:");
+    Console.WriteLine("Escolha uma das opções:");
     maquina.PrateleirasMenu();
     maquina.OpcaoMenu = Console.ReadLine();
 
