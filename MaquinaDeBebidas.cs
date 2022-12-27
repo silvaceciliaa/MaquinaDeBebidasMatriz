@@ -19,7 +19,7 @@ namespace MaquinaDeBebidas
 
        
 
-        public void Comprar()
+        public void Buy()
         {
             if (OpcaoMenu == "00" && Agua > 0)
             {

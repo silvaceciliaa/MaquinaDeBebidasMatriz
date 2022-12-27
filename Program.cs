@@ -21,27 +21,27 @@ while (loop)
     if (maquina.OpcaoMenu == "00")
     {
         Console.Clear();
-        maquina.Comprar();
+        maquina.Buy();
     }
     if (maquina.OpcaoMenu == "01")
     {
         Console.Clear();
-        maquina.Comprar();
+        maquina.Buy();
     }
     if (maquina.OpcaoMenu == "02")
     {
         Console.Clear();
-        maquina.Comprar();
+        maquina.Buy();
     }
     if (maquina.OpcaoMenu == "03")
     {
         Console.Clear();
-        maquina.Comprar();
+        maquina.Buy();
     }
     if (maquina.OpcaoMenu == "04")
     {
         Console.Clear();
-        maquina.Comprar();
+        maquina.Buy();
     }
 
     if (maquina.OpcaoMenu == "10")
